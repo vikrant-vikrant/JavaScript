@@ -1,0 +1,12 @@
+h1{
+  color: grey;
+}
+.task{
+  display: flex;
+}
+.task div{
+  text-decoration: underline red;
+}
+*{
+  background-color: rgb(162, 162, 162);
+}
