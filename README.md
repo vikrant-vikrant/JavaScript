@@ -10,4 +10,5 @@ Topics i cover today : -
 Topics i cover today : -
 1. this with arrow function,
 2. Practice Qs, Assignment Qs(part 7)
-3. Array Methods :- forEach,
+3. Array Methods :- forEach,Map,Filter,Every,Some,Reduce,Default Parameters & Spread
+4. Practice Qs

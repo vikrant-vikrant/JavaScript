@@ -75,3 +75,64 @@ let boys = [{
 // boys.forEach((student)=>{
 //   console.log(student.marks)
 // })
+
+//Map
+let double = arr.map(function(el){
+  return el*2;
+})
+// console.log(double);
+
+let gpa = boys.map((marks)=>{
+  return marks.marks / 10 ;
+})
+// console.log(gpa);
+
+//Filter
+let nums = [12,3,4,5,6,7];
+let even = nums.filter((num)=>(num % 2 == 0));
+let odd = nums.filter((num)=>(num % 2 != 0));
+let g = nums.filter((num)=>(num > 3));
+// console.log(even,odd,g)
+
+//Every(AND)
+let small = nums.every((n)=>(n<10));
+// console.log(small)
+
+//Some(OR)
+let big = nums.some((n)=>(n>10))
+// console.log(big)
+
+//Reduce
+// console.log(nums.reduce((res,el)=>(res+el)));
+
+let max = nums.reduce((max,el) =>{
+  if(max < el){
+    return el;
+  }else{
+    return max;
+  }
+});
+
+// Practice Qs 
+// console.log([10,20,110,210].every((n)=>(n % 10 == 0)));
+
+let min = nums.reduce((min,el)=>{
+  if(min < el){
+    return min;
+  }else{
+    return el;
+  }
+});
+// console.log(min);
+
+//Default Parameters
+let mul = (a,b=1) =>{
+  return a*b;
+}
+// console.log(mul(4,3));
+
+//spread
+
+// console.log(..."vikrant")
+// console.log(Math.max(...arr))
+// console.log(Math.min(...arr))
