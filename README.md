@@ -12,3 +12,8 @@ Topics i cover today : -
 2. Practice Qs, Assignment Qs(part 7)
 3. Array Methods :- forEach,Map,Filter,Every,Some,Reduce,Default Parameters & Spread
 4. Practice Qs
+
+28th of November, 2024 
+Topics i cover today : -
+1. Spread with array literals & object literals,Rest,arguments,Destructuring & in obj
+2. Practice Qs js part 8,
