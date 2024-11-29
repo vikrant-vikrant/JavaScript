@@ -101,12 +101,6 @@ let uppercase = students.map((student)=>{
 })
 console.log(uppercase)
 
-let obj2 = {
-  stu1:"najma",
-  stu2:"rehana",
-}
 
-let obj3 = {
-  stu1:"deepak",
-  stu2:"kaka",
-}
+const mergeObj = (obj2,obj3)=>({...obj2,...obj3})
+console.log(mergeObj({a:1,b:2},{c:3,d:4}))
