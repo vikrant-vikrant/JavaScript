@@ -23,3 +23,23 @@ let p1 = document.createElement("p");
 p1.innerText = "Me too!";
 document.querySelector(".bottomDiv").insertAdjacentElement("afterbegin",h1);
 document.querySelector(".bottomDiv").insertAdjacentElement("afterbegin",p1);
+
+let input = document.createElement("input");
+input.placeholder = "username";
+document.querySelector("h1").insertAdjacentElement("afterend",input);
+let btn = document.createElement("button");
+btn.innerText = "Click me";
+document.querySelector("input").insertAdjacentElement("afterend",btn);
+document.querySelector("button").style.background = "blue";
+btn.setAttribute("id","kaka")
+document.querySelector("#kaka").style.color = "white";
+
+let vish = document.createElement('h1');
+vish.innerText = "DOM Practice";
+vish.style.textDecoration = "blue underline";
+vish.style.color = "purple";
+document.querySelector("body").prepend(vish);
+
+let pera = document.createElement('p');
+pera.innerHTML = `Apna College <b>Delta</b> Practice`;
+document.querySelector("body").prepend(pera);
