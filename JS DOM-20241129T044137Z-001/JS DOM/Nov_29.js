@@ -27,6 +27,7 @@ document.querySelector(".bottomDiv").insertAdjacentElement("afterbegin",p1);
 let input = document.createElement("input");
 input.placeholder = "username";
 document.querySelector("h1").insertAdjacentElement("afterend",input);
+
 let btn = document.createElement("button");
 btn.innerText = "Click me";
 document.querySelector("input").insertAdjacentElement("afterend",btn);
