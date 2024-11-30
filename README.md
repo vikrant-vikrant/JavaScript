@@ -23,3 +23,9 @@ Topics i cover today : -
 1. DOM,selecting elements by id,className,TagName and querySelectors,Manipulationg Attributes and Style, classList property, Navigation on page, Adding Elements , Removing Elements,
 2. Practice Qs part - 9
 3. Assignment Questions js Part 9 solve
+
+30th of November, 2024 
+Topics i cover today : -
+1. Dom Events, Mouse/pointer Events Listener, 
+2. Do a colour generating Activity
+3. Evnet listener for Elements,This in Event listener,keyboard Event,
