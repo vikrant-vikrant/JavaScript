@@ -29,3 +29,8 @@ Topics i cover today : -
 1. Dom Events, Mouse/pointer Events Listener, 
 2. Do a colour generating Activity
 3. Evnet listener for Elements,This in Event listener,keyboard Event,
+
+1st of December, 2024 
+Topics i cover today : -
+1. Form Events, Extracting form data, input & change eventlistener,
+2. about to finish Assignment Question or js part - 10
