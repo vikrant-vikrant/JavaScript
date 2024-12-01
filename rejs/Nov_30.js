@@ -11,10 +11,6 @@ h1.addEventListener("mouseenter",function(){
   // console.log(this.innerText)
   console.log("Leave me alone i don't wanna talk")
 });
-//mouseout
-h1.addEventListener("mouseout",function(){
-  console.log("go away")
-});
 // Keyboad Event
 // let btn =  document.querySelector("button");
 // btn.addEventListener("click",function(event){
