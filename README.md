@@ -34,3 +34,7 @@ Topics i cover today : -
 Topics i cover today : -
 1. Form Events, Extracting form data, input & change eventlistener,
 2. about to finish Assignment Question or js part - 10
+
+2nd of December, 2024 
+Topics i cover today : -
+1. Create a ToDo, a better version, in this we can Add a task and save it in localStroge
