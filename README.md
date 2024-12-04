@@ -38,3 +38,7 @@ Topics i cover today : -
 2nd of December, 2024 
 Topics i cover today : -
 1. Create a ToDo, a better version, in this we can Add a task and save it in localStroge
+
+3rd of December, 2024 
+Topics i cover today : -
+1. Improve my Todo and arrange some old files

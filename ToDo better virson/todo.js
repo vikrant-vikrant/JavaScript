@@ -9,16 +9,16 @@ btn.addEventListener("click",function(){
   window.location.reload();
 });
 
-for(task of tasks){
-  let newTask = document.createElement("li")
-  newTask.innerText = task;
-  let ul = document.querySelector("ul")
-  ul.insertAdjacentElement("afterbegin",newTask)
-  let btn = document.createElement("button")
-  btn.innerText = "Delete task";
-  document.querySelector("li").insertAdjacentElement("beforeend",btn)
-  btn.addEventListener("click",function(){
+// for(task of tasks){
+//   let newTask = document.createElement("li")
+//   newTask.innerText = task;
+//   let ul = document.querySelector("ul")
+//   ul.insertAdjacentElement("afterbegin",newTask)
+  // let btn = document.createElement("button")
+  // btn.innerText = "Delete task";
+  // document.querySelector("li").insertAdjacentElement("beforeend",btn)
+  // btn.addEventListener("click",function(){
     
-    console.log("hey")
-  })
-}
+  //   console.log("hey")
+  // })
+// }

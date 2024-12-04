@@ -1,6 +1,40 @@
-h1{
-  color: rgb(103, 101, 101);
-}
 *{
-  background-color: rgb(196, 195, 195);
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: linear-gradient(130deg,#8052ec,#d161ff);
+  height: 100vh;
+}
+.main{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10rem;
+  width: 40%;
+}
+.addTask{
+  padding: 1.5rem;
+  background-color: #fff;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: space-around;
+}
+input{
+  height: 3rem;
+  /* width: 25rem; */
+  border-radius: 1rem;
+  font-size: 1.5rem;
+  max-width: fit-content;
+  min-width: 10rem;
+}
+
+.addTask #addTask{
+  /* background-color: purple; */
+  background: linear-gradient(130deg,rgb(160, 45, 45),white,rgb(44, 213, 44));
+
+  color: rgb(11, 9, 9);
+  padding: .5rem;
+  width: 6rem;
+  border-radius: 1rem;
+  font-size: 1.2rem;
 }
