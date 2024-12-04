@@ -42,3 +42,11 @@ Topics i cover today : -
 3rd of December, 2024 
 Topics i cover today : -
 1. Improve my Todo and arrange some old files
+
+4th of December, 2024 
+1. Start making a new Todo and build it half,
+
+5th of December, 2024 
+Topics i cover today : -
+1. Improve my Todo
+2. Add fetures like :- Adding task, Deleting the task and now we can mark it as done,
