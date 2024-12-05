@@ -50,3 +50,4 @@ Topics i cover today : -
 Topics i cover today : -
 1. Improve my Todo
 2. Add fetures like :- Adding task, Deleting the task and now we can mark it as done,
+3. uplode two miniProjects ColorGenerator & Todo
