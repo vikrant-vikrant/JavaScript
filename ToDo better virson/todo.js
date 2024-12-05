@@ -4,10 +4,10 @@ document.querySelector(".push").onclick = function(){
   }else {
     document.querySelector(".tasks").innerHTML += `
         <div class="task">
-          <span id="taskname">
+          <span id="taskname" title="Click for mark as Done">
             ${document.querySelector('.newtask input').value}
           </span>
-          <button class="detele">
+          <button class="detele" title="Delete task">
               <i class="fa-regular fa-trash-can"></i>
           </button>
         </div>
