@@ -6,18 +6,19 @@ body{
   text-align: center;
 }
 .outer{
-  margin-top: 3rem;
+  padding-top: 2%;
 }
 h1{
-  margin-top: .5rem;
   font-size: 4rem;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .colorBox{
-  height: 28rem;
-  width: 48%;
+  height: 30rem;
+  width: 50%;
   margin: auto;
   margin-top: 5rem;
+  border: none;
+  border-radius: 5rem;
 }
 button {
   width: 200px;
