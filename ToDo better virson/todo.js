@@ -25,7 +25,11 @@ document.querySelector(".push").onclick = function(){
     }
   }
 }
-
+document.querySelector(".newtask input").addEventListener("keydown",function(event){
+  if(event.key == "Enter"){
+    document.querySelector(".push").click();
+  }
+})
 
 
 
