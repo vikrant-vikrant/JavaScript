@@ -51,3 +51,13 @@ Topics i cover today : -
 1. Improve my Todo
 2. Add fetures like :- Adding task, Deleting the task and now we can mark it as done,
 3. uplode two miniProjects ColorGenerator & Todo
+
+6th of December, 2024 
+Today i build a calculator:-
+  Features :
+    Addition, subtraction, multiplication, and division.
+    Responsive and user-friendly interface.
+
+7th Dec,2024
+I add a Light & Dark mode option with a toggle
+
