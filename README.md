@@ -73,3 +73,7 @@ Add two Projects to miniProjects on github
 Add two Projects to miniProjects spotifyClone & rockPaperScissor
 modify layout and colours of rockPaperScissor 
 also add README.md on github with relevent screenShots
+
+12th Dec,2024
+1. Improve simonSays game 
+2. modify player exprience
