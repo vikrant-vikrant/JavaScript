@@ -61,3 +61,15 @@ Today i build a calculator:-
 7th Dec,2024
 I add a Light & Dark mode option with a toggle
 
+8th & 9th Dec,2024
+Remove some unusal code from catFact & dogImg,
+and 9th dec is skiped,
+
+10th Dec,2024
+Add two Projects to miniProjects on github
+1st coinFlip & 2nd cameraProject
+
+11th Dec,2024
+Add two Projects to miniProjects spotifyClone & rockPaperScissor
+modify layout and colours of rockPaperScissor 
+also add README.md on github with relevent screenShots
