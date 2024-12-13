@@ -77,3 +77,8 @@ also add README.md on github with relevent screenShots
 12th Dec,2024
 1. Improve simonSays game 
 2. modify player exprience
+
+13th Dec,2024
+1. add highest score tracker in simonSays game 
+2. Topics i cover today : -
+     js call stack, breakpoints and callback hell
