@@ -82,3 +82,7 @@ also add README.md on github with relevent screenShots
 1. add highest score tracker in simonSays game 
 2. Topics i cover today : -
      js call stack, breakpoints and callback hell
+
+14th Dec,2024
+1. Topics i cover today : -
+    callback hell vs Promises
