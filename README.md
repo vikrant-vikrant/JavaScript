@@ -99,3 +99,13 @@ also add README.md on github with relevent screenShots
 
 1. Topics i cover today : -
    callback hell vs Promises
+
+15th Dec,2024
+
+Topics i cover today : -
+   Know about API,JSON,Https verbs and status code
+
+16th Dec,2024
+
+Topics i cover today : -
+   fetch API and use their data in web
