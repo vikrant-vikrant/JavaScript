@@ -109,3 +109,8 @@ Topics i cover today : -
 
 Topics i cover today : -
    fetch API and use their data in web
+
+17th Dec,2024
+
+Topics i cover today : -
+   use async-await, Axios and send headers with API request,

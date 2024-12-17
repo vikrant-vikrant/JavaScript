@@ -12,4 +12,4 @@ function photo(){
     console.log("error occourid",err);
   })
 }
-// photo();
+photo();
