@@ -4,7 +4,6 @@ async function photo() {
     let res = await fetch(url);
     let data = await res.json();
     document.querySelector("img").src = data.image;
-    // console.log(data.image);
   }catch(e){
     console.log("Error -", e)
   }
