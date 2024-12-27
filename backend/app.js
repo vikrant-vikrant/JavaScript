@@ -1,17 +1,16 @@
-var figlet = require("figlet");
-var giveMeAJoke = require('give-me-a-joke');
+const express = require("express");
+const app = express();
 
-figlet("vikrant", function (err, data) {
-  if (err) {
-    console.log("Something went wrong...");
-    console.dir(err);
-    return;
-  }
-  console.log(data);
+// console.log(app)
+
+
+
+
+
+app.listen(3000,()=>{
+  console.log("lestening port 3000")
 });
 
-
-// To get a random dad joke
-giveMeAJoke.getRandomDadJoke (function(joke) {
-    console.log(joke);
-});
+app.use((req,res)=>{
+  console.log("request recived")
+})
