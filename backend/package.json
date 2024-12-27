@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "figlet": "^1.8.0",
+    "give-me-a-joke": "^0.5.1"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "my frist project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "not avelable"
+  },
+  "author": "vikrnat",
+  "license": "ISC"
+}
