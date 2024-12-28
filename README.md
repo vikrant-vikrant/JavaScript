@@ -128,3 +128,7 @@ Topics i cover today : -
 
 26th, 27th Dec,2024
    know about gitHub, node.js, Terminal and express,Templating,
+
+28th Dec,2024
+   Get & Post Request,
+   Handling POST request
