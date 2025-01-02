@@ -10,8 +10,10 @@ app.get("/register", (req, res) => {
 });
 
 app.post("/register", (req, res) => {
+  let {user,password} = req.body;
+
   console.log(req.body);
-  res.send("standard POST response");
+  res.send(`standard POST response ${user}`);
 });
 
 app.listen(3000, () => {
