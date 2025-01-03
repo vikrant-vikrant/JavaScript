@@ -135,3 +135,6 @@ Topics i cover today : -
 
 2nd Jan,2025
    Create new branch of amazon project on gitHub and ues it
+
+3rd Jan,2025
+   use oop to create new cart
