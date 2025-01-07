@@ -138,3 +138,7 @@ Topics i cover today : -
 
 3rd Jan,2025
    use oop to create new cart
+
+4th Jan,2025
+   use class version of cart in all files,
+   Merge pull request in gitHub
